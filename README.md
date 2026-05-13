@@ -9,13 +9,12 @@
 - Visualizar el impacto de parámetros de configuración en la adquisición
 
 ## 📁 Estructura del Repositorio
-📦 stm32-adc
-├── 📄 README.md ← Este archivo
-├── 📄 ANALISIS_TECNICO.md ← Análisis matemático ADC/TIM2/DMA ⭐
-├── 📄 main.c ← Firmware principal
-├── 📁 scripts/ ← Herramientas Python para post-procesamiento
+📦 stm32-adc  
+├── 📄 README.md ← Este archivo  
+├── 📄 ANALISIS_TECNICO.md ← Análisis matemático ADC/TIM2/DMA ⭐  
+├── 📄 main.c ← Firmware principal  
+├── 📁 scripts/ ← Herramientas Python para post-procesamiento  
 └── 📁 docs/ ← Diagramas y recursos visuales
-
 
 ## 🧪 Especificaciones del Firmware
 | Parámetro | Valor | Descripción |
